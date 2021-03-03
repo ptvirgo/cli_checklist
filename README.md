@@ -100,7 +100,7 @@ information into a database, you're going to want to pick a different
 input or output location.  Do the right thing for the job at hand - but it's
 worth bearing in mind that a lot of interesting composition possibilities open
 up if your script is able to keep even one side of the I/O process in the world
-of text streaming: check out (singer.io)[https://singer.io] (no affiliation) to
+of text streaming: check out [singer.io](https://singer.io) (no affiliation) to
 get a sense of the possibilities.
 
 
